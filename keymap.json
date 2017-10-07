@@ -1,0 +1,15 @@
+{
+  "up": 1,
+  "down": 2,
+  "left": 3,
+  "left+space": 4,
+  "left+shift": 5,
+  "left+space+shift": 6,
+  "right": 7,
+  "right+space": 8,
+  "right+shift": 9,
+  "right+space+shift": 10,
+  "space": 11,
+  "shift": 12,
+  "space+shift": 13
+}
