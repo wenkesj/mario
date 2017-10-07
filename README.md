@@ -13,16 +13,17 @@ with replay prioritization to make the next generation of parameters a function 
 of past generations (if that makes sense, more on that later).
 
 <div align="center">
-  ![cnn](/assets/conv.gif)
+  <img src="/assets/conv.gif"/>
   <p align="center">
-    **cnn**
+    <strong>cnn</strong>
   </p>
 </div>
 
 <div align="center">
-  ![lstm](/assets/lstm.gif)
+
+  <img src="/assets/lstm.gif"/>
   <p align="center">
-    **cnn+lstm**
+    <strong>cnn+lstm</strong>
   </p>
 </div>
 
